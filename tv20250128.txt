@@ -22,22 +22,22 @@ CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
 CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
-CGTN西班牙语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
-CGTN阿拉伯语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
+CGTN西语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
+CGTN阿语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
 CCTV世界地理,https://pi.0472.org/live/sjdl.m3u8?token=162210
 CCTV兵器科技,http://60.2.190.206:4000/udp/239.253.93.47:6435
 CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV怀旧剧场,http://60.2.190.206:4000/udp/239.253.93.252:6430
 CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 CCTV老故事,http://nas.hssvm.com:8888/udp/225.1.1.188:5002
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN俄语2,https://0472.org/hls/cgtne.m3u8
-CGTN法语2,https://0472.org/hls/cgtnf.m3u8
-CGTN纪录2,https://0472.org/hls/cgtnd.m3u8
-CGTN西语2,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语2,https://0472.org/hls/cgtna.m3u8
 
 卫视频道,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
@@ -1403,9 +1403,9 @@ CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 西游记续集,http://zzy789.xyz/douyu1.php?id=3113309
 我是特种兵之利刃出鞘,http://jiaojirentv.top/2020/yy.php?id=37999586
 狂飙,http://jiaojirentv.top/2020/yy.php?id=1355142167
- 三国演义,http://jiaojirentv.top/2020/yy.php?id=1354930932
+三国演义,http://jiaojirentv.top/2020/yy.php?id=1354930932
 西游记,http://1.94.31.214:35455/huya/26355861
- 新白娘子传奇,http://jiaojirentv.top/2020/yy.php?id=1354490667
+新白娘子传奇,http://jiaojirentv.top/2020/yy.php?id=1354490667
 乌龙闯情关,http://1.94.31.214:35455/huya/26355767
 永夜星河,http://1.94.31.214:35455/huya/23734169
 柳舟计,http://1.94.31.214:35455/huya/23860039
