@@ -74,7 +74,7 @@ CCTV风云足球 HD,http://home.js001.com:7777/stream/channelid/1069494532?profi
 CCTV高尔夫网球,http://home.js001.com:7777/stream/channelid/1329489557?profile=pass
 中广一套广播,http://home.js001.com:7777/stream/channelid/1875473557?profile=pass
 
-央视频道,#genre#
+央视频道4,#genre#
 CCTV1,http://117.144.58.42:35455/gaoma/cctv1.m3u8
 CCTV1,http://hangfun.top:35455/gaoma/cctv1.m3u8
 CCTV1,http://111.170.172.113:35455/gaoma/cctv1.m3u8
@@ -2369,6 +2369,7 @@ News 1,P2p://generationnexxxt.com:19806/ed92062ce02e4f978d104a3e1a94b850
 TVB Thai,P2p://generationnexxxt.com:19806/99c848d8d2b947348da447495b7f2c42
 Bluesky,P2p://generationnexxxt.com:19806/6c091bd3b2614d4a9244d0d1ea9720fc
 Top News,P2p://generationnexxxt.com:19806/2583f8f3552a4881ae24c14412298a42
+
 其他频道,#genre#
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b58b674fe32113222c6c9eab78bcdc2a9f31cf142a1d60536ea5a5ee039d3753e6bd98bef238d0ba7e3af9153e765e8b77e2a8c28451355b4a426d11c5c304f8
