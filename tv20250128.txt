@@ -1309,16 +1309,13 @@ CHC动作电影,https://pi.0472.org/chc/dz.m3u8
 CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8
 CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111
 CHC动作电影,http://119.32.12.32:2901/udp/224.1.100.131:11111
-CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
-CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
-CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-21.ctv
+CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 CHC影迷电影,http://59.173.243.210:9901/tsfile/live/0119_1.m3u8
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-黑莓动画 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-黑莓电影 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓动画,http://35455.koyeb.app/itv/1000000004000021734.m3u8?cdn=ystenlive
+黑莓电影,http://35455.koyeb.app/itv/1000000004000019624.m3u8?cdn=ystenlive
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 黑莓电影,http://itv.nctv.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 黑莓电影,http://www.terrykang.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
@@ -1937,6 +1934,26 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
 梨园频道,http://60.2.190.206:4000/udp/239.253.93.133:6441
 梨园频道,http://60.7.56.33:4000/udp/239.253.92.152:8086
 梨园频道,http://60.7.56.33:4000/udp/239.253.93.133:6441
+IHOT爱电竞,http://35455.koyeb.app/itv/6000000006000230630.m3u8?cdn=wasusyt
+IHOT爱谍战,http://35455.koyeb.app/itv/6000000006000070630.m3u8?cdn=wasusyt
+IHOT爱动漫,http://35455.koyeb.app/itv/6000000006000280630.m3u8?cdn=wasusyt
+IHOT爱都市,http://35455.koyeb.app/itv/6000000006000080630.m3u8?cdn=wasusyt
+IHOT爱怀旧,http://35455.koyeb.app/itv/6000000006000260630.m3u8?cdn=wasusyt
+IHOT爱经典,http://35455.koyeb.app/itv/6000000006000060630.m3u8?cdn=wasusyt
+IHOT爱科幻,http://35455.koyeb.app/itv/6000000006000020630.m3u8?cdn=wasusyt
+IHOT爱科学,http://35455.koyeb.app/itv/6000000006000160630.m3u8?cdn=wasusyt
+IHOT爱浪漫,http://35455.koyeb.app/itv/6000000006000040630.m3u8?cdn=wasusyt
+IHOT爱历史,http://35455.koyeb.app/itv/6000000006000150630.m3u8?cdn=wasusyt
+IHOT爱旅行,http://35455.koyeb.app/itv/6000000006000250630.m3u8?cdn=wasusyt
+IHOT爱奇谈,http://35455.koyeb.app/itv/6000000006000270630.m3u8?cdn=wasusyt
+IHOT爱青春,http://35455.koyeb.app/itv/6000000006000100630.m3u8?cdn=wasusyt
+IHOT爱赛车,http://35455.koyeb.app/itv/6000000006000240630.m3u8?cdn=wasusyt
+IHOT爱体育,http://35455.koyeb.app/itv/6000000006000290630.m3u8?cdn=wasusyt
+IHOT爱玩具,http://35455.koyeb.app/itv/6000000006000220630.m3u8?cdn=wasusyt
+IHOT爱喜剧,http://35455.koyeb.app/itv/6000000006000010630.m3u8?cdn=wasusyt
+IHOT爱悬疑,http://35455.koyeb.app/itv/6000000006000050630.m3u8?cdn=wasusyt
+IHOT爱幼教,http://35455.koyeb.app/itv/6000000006000180630.m3u8?cdn=wasusyt
+IHOT爱院线,http://35455.koyeb.app/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 国际频道,#genre#
 BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
