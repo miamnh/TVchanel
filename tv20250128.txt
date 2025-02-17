@@ -317,6 +317,15 @@ TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 半島新聞台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+年代新聞台,http://122.117.71.103:8538/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
+TAIWAN,http://122.117.71.103:8539/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
+中天新聞台,http://122.117.71.103:8540/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
+東森新聞台,http://122.117.71.103:8541/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
+三立新聞台,http://122.117.71.103:8542/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
+Tvbs新聞台,http://122.117.71.103:8543/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
+寰宇新聞台,http://122.117.71.103:8548/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
+
 Tvbs新聞台,http://211.75.171.121:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
 Tvbs新聞台,http://125.229.9.67:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
 東森新聞台,http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
