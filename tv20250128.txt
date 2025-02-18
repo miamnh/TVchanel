@@ -628,7 +628,6 @@ KBC SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
-广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 广州新闻,http://14.112.86.85:4022/udp/239.253.43.72:5146
 广州新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.37:11111
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
@@ -761,8 +760,7 @@ X德宏|芒市,http://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634
 金鹰纪实,http://116.128.242.83:9901/tsfile/live/1001_1.m3u8
 金鹰纪实,http://1b6467f415.iok.la:9931/tsfile/live/1078_1.m3u8
 金鹰纪实,http://60.2.190.206:4000/udp/239.253.92.103:6054
-4K南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
+
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 万州三峡移民,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
@@ -782,6 +780,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 万载综合,http://ls.qingting.fm/live/273.m3u8
 上海纪实,http://wouu.net:9977/udp/239.93.1.137:5140
 上海都市,http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
+YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 上虞文化,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed?
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
@@ -1611,7 +1610,7 @@ TLC,http://122.117.71.103:8512/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
 中天娱乐,http://122.117.71.103:8528/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
 东森戏剧,http://122.117.71.103:8529/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
 八大戏剧,http://122.117.71.103:8530/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
-测试30,http://122.117.71.103:8530/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
+八大戏剧,http://122.117.71.103:8530/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
 东森戏剧,http://122.117.71.103:8531/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
 纬来戏剧,http://122.117.71.103:8532/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
 龙华戏剧,http://122.117.71.103:8533/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
