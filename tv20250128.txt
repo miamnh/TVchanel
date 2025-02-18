@@ -1622,20 +1622,8 @@ RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/s
 半島電視台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
 台湾,#genre#
-ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-华视,rtmp://f13h.mine.nu/sat/tv111
 寰宇新闻台,http://222.128.55.152:9080/live/hy.m3u8
-民视,rtmp://220.130.201.73/sat/tv051
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
 台视新闻台,http://222.128.55.152:9080/live/ts.m3u8
-緯來日本台,rtmp://f13h.mine.nu/sat/tv771
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-中视,rtmp://f13h.mine.nu/sat/tv091
 中天新闻台,http://222.128.55.152:9080/live/fc.m3u8
 
 台视HD,http://122.117.71.103:8502/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
