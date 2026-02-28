@@ -1239,6 +1239,15 @@ CHC影迷電影,http://ik6.iptv8.net:8888/udp/225.1.4.207:1260
 CINEMAX,http://125.229.9.67:8558/http/220.130.87.218:8081/hls/71/813/ch042.m3u8
 
 广东(流畅),#genre#
+潮州综合,http://vpn.jk960.cn:8686/rtp/239.253.43.70:5146
+潮州民生,http://vpn.jk960.cn:8686/rtp/239.253.43.75:5146
+汕头综合,http://vpn.jk960.cn:8686/rtp/239.253.43.45:5146
+汕头经济生活,http://vpn.jk960.cn:8686/rtp/239.253.43.46:5146
+揭阳综合,http://vpn.jk960.cn:8686/rtp/239.77.0.229:5146
+揭阳生活,http://vpn.jk960.cn:8686/rtp/239.77.0.251:5146
+潮州综合,http://ikuai.haleeyo.cn:9003/rtp/239.253.43.70:5146
+潮州民生,http://ikuai.haleeyo.cn:9003/rtp/239.253.43.75:5146
+
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
@@ -3109,6 +3118,7 @@ Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
+
 
 
 
